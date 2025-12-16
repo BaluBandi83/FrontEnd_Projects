@@ -5,7 +5,7 @@
 <img src="https://github.com/rishikesh0586/Apna-College-Amazon-clone/blob/main/Screenshot%202023-07-06%20203512.png"/>
 
 
-#Personal Protfolio
+# Portfolio
 
 🚀 Portfolio Website
 Welcome to my personal portfolio website, built to showcase my skills, projects, and background as a backend-focused full-stack developer.
